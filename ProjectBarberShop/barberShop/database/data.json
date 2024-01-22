@@ -1,0 +1,29 @@
+[
+    {
+        "id": "OuzuZPxhFc",
+        "name": "Danu",
+        "paket": "A",
+        "time": "13.00",
+        "model": "Mullet",
+        "price": "120.000",
+        "colorHair": "hitam"
+    },
+    {
+        "id": "JjG6pimAku",
+        "name": "apit",
+        "paket": "none",
+        "time": "none",
+        "model": "botak",
+        "price": "120.000",
+        "colorHair": "black"
+    },
+    {
+        "id": "pY7Pk9WDHS",
+        "name": "hafith",
+        "paket": "A",
+        "time": "13.00",
+        "model": "Mullet",
+        "price": "120.000",
+        "colorHair": "Black"
+    }
+]

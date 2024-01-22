@@ -1,0 +1,20 @@
+[
+    {
+        "id": "qCBn5ReOqN",
+        "name": "Nii",
+        "paket": "B",
+        "time": "55.00",
+        "model": "botak",
+        "price": "40.000",
+        "colorHair": "hitam"
+    },
+    {
+        "id": "ZxuFO69lEo",
+        "name": "hafith",
+        "paket": "A",
+        "time": "13",
+        "model": "mullet",
+        "price": "67",
+        "colorHair": "hitam"
+    }
+]
