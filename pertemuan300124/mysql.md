@@ -76,7 +76,7 @@ select * from sekolahan where alamat = ? and kapasitas_siswa = ?;
 (tanggal_buat)
 -  Ascending => dimulai dari a - z / id / created_at
 
-``` sql 
+``` sql ```
 -- mengambil jurusan dari z - a
 select * from sekolah ORDER BY jurusan DESC
 
@@ -151,3 +151,23 @@ select * from sekolah where jurusan
 8.SELECT * FROM perpustakaan WHERE harga BETWEEN 1 AND 15000;
 9.UPDATE perpustakaan SET harga = 6000 WHERE id = 1;
 10.DELETE FROM perpustakaan WHERE id = 2;
+
+
+
+
+ foreign key 
+ leftJoin
+ RightJoin
+ Join
+
+ Foreign key adalah kolom dalam sebuah tabel yang menghubungkan data ke kunci utama di tabel lain, memastikan integritas referensial.
+
+ left JOIN adalah mengembalikan semua baris dari tabel di sebelah kiri dan baris yang sesuai dari tabel di sebelah kanan, dengan nilai null jika tidak ada.
+
+ right Join adalah mengembalikan semua baris dari tabel di sebelah kana dari baris yang sesuai  dari tabel  di sebelah kiri, dengan nilai null jika tidak ada.
+
+ join adalah mengembalikan hanya baris yang memiliki nilai sesuai di kedua tabel yang di hubungkan.
+
+ sekian terima kasih
+
+ 
