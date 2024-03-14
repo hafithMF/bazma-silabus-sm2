@@ -67,5 +67,3 @@ SET nama_kategori = 'Pembelian'
 WHERE id = 1;
 
 <!-- Delete -->
-DELETE FROM tabungan
-WHERE id = 3;
